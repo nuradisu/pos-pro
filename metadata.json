@@ -1,0 +1,7 @@
+{
+  "name": "Copy of POS Resto Pro",
+  "description": "Sistem Point of Sale (POS) modern untuk restoran dengan fitur kasir cepat, manajemen menu, dashboard statistik, dan laporan transaksi mendalam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
